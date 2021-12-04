@@ -1,0 +1,9 @@
+pandas
+sklearn
+numpy
+FastAPI
+uvicorn[standard]
+sentence-transformers
+tqdm
+h5py
+weaviate-client
